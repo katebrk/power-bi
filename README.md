@@ -33,3 +33,10 @@ This report shows crash-free users metrics that can be filtered by Company name 
 Download PBIX file [here](https://github.com/katebrk/power-bi/blob/main/Active%20and%20Crash-free%20Users.pbix).
 
 <img src="https://github.com/katebrk/power-bi/blob/main/screenshots/crash_free_users_report.gif" width="85%">
+
+## Report 5: Profit & Loss Report
+This report is designed for CFOs and financial specialists to view Profit & Loss (P&L) statements in a customizable layout. Users can filter the statements by year and month to focus on specific periods.
+
+Download PBIX file [here](https://github.com/katebrk/power-bi/blob/main/P%26L%20Report.pbix).
+
+<img src="https://github.com/katebrk/power-bi/blob/main/screenshots/profit_and_loss_report.gif" width="85%">
