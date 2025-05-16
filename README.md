@@ -2,7 +2,7 @@
 
 Hello! I'm Kate and this repository is a place to share my Power BI portfolio projects. 
 
-I enjoy creating simple, consistent, and user-friendly reports that follow core data visualization and analysis principles. I also aim (and pretty much enjoy) to build a clean and well-structured backend - data models / semantic layer, DAX measures, transfomations. Find my reports below! 
+I enjoy creating simple, consistent, and user-friendly reports that follow core data visualization and analysis principles. I also aim to build a clean and well-structured backend - data models / semantic layer, DAX measures, transfomations. Find my reports below! 
 
 ## Report 1: SaaS Business Overview 
 
