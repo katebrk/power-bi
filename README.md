@@ -1,6 +1,8 @@
 # Power BI Portfolio Projects
 
-This repository is a place to share my Power BI portfolio projects. 
+Hello! I'm Kate and this repository is a place to share my Power BI portfolio projects. 
+
+I enjoy creating simple, consistent, and user-friendly reports that follow core data visualization and analysis principles. I also aim (and pretty much enjoy) to build a clean and well-structured backend - data models / semantic layer, DAX measures, transfomations. Find my reports below! 
 
 ## Report 1: SaaS Business Overview 
 
@@ -32,14 +34,30 @@ What you can explore:
 <img src="https://github.com/katebrk/power-bi/blob/main/screenshots/chatai_product_growth_report.gif" width="85%">
 
 ## Report 3: Active Users Report
-This report shows active users metrics that can be filtered by Company name and Period (7d, 30d, etc.) and shows users locations. Active Users chart shows the metric over 1d / 7d and 28d period.  
+
+This report shows active users metrics and location across different company's customers. 
+
+Key stakeholders: Product, growth, customer success teams. 
+
+What you can explore:  
+- Filter the data by customer and period, or reset all filters
+- View the number of active users over 1-day, 7-day and 28-day periods
+- See where users are located via map visual and barchart, highlighting the most active countries. 
 
 ###### Download PBIX file [here](https://github.com/katebrk/power-bi/blob/main/Active%20and%20Crash-free%20Users.pbix).
 
 <img src="https://github.com/katebrk/power-bi/blob/main/screenshots/active_users_report.gif" width="85%">
 
 ## Report 4: Crash-Free Users Report
-This report shows crash-free users metrics that can be filtered by Company name and Period (7d, 30d, etc.). 
+
+This report shows crash-free metrics across different customers of the company. 
+
+Key stakeholders: Product, growth, customer success teams. 
+
+What you can explore:  
+- Filter the data by customer and period, or reset all filters
+- View key crash-related metrics: crash-free user %, total crashes, active users, affected users
+- Explore trends in crash-free % and crash volume over time to identify the most problematic days. 
 
 ###### Download PBIX file [here](https://github.com/katebrk/power-bi/blob/main/Active%20and%20Crash-free%20Users.pbix).
 
@@ -58,3 +76,5 @@ What you can do:
 ###### Download PBIX file [here](https://github.com/katebrk/power-bi/blob/main/P%26L%20Report.pbix).
 
 <img src="https://github.com/katebrk/power-bi/blob/main/screenshots/profit_and_loss_report.gif" width="85%">
+
+Thank you for visiting my page! 
