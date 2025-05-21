@@ -77,6 +77,14 @@ What you can do:
 
 <img src="https://github.com/katebrk/power-bi/blob/main/screenshots/profit_and_loss_report.gif" width="85%">
 
+## Report 6: KPI Cards Design Ideas
+This shows different ideas for KPI cards designs. 
+
+###### Download PBIX file [here](https://github.com/katebrk/power-bi/blob/main/KPI%20Cards.pbix).
+
+<img src="https://github.com/katebrk/power-bi/blob/main/screenshots/kpi_cards.png" width="50%">
+
+
 Thank you for visiting my page! 
 
 Contact on [LinkedIn](https://www.linkedin.com/in/kate-b-a145a117a/)
