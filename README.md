@@ -77,7 +77,21 @@ What you can do:
 
 <img src="https://github.com/katebrk/power-bi/blob/main/screenshots/profit_and_loss_report.gif" width="85%">
 
-## Report 6: KPI Cards Design Ideas
+## Report 6: Paid Ads Daily Monitoring Report
+This one-page tabular report provides transparent, daily monitoring of paid ads spend and key metrics for yesterday, last 7 days and last 28 days.
+
+Key stakeholders: CMO, COO, marketing analysts, etc. 
+
+What you can do:  
+- Track daily ad spend across all platforms and locations to enable quick decisions and actions based on perfomance. 
+- Monitor key metrics for paid ads and sort table by each metric: Ad spend, ROAS, Conversion rate, Ads spend of sales %.  
+
+###### Download PBIX file [here](https://github.com/katebrk/power-bi/blob/main/Paid%20Ad%20Spend%20Monitoring%20Report.pbix).
+
+<img src="https://github.com/katebrk/power-bi/blob/main/screenshots/paid_ads_report_screen.png" width="50%">
+
+
+## Report 7: KPI Cards Design Ideas
 This shows different ideas for KPI cards designs. 
 
 ###### Download PBIX file [here](https://github.com/katebrk/power-bi/blob/main/KPI%20Cards.pbix).
